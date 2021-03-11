@@ -1,0 +1,27 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dev.js",
+    "scripts": {
+        "start": "node dev.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gm": "^1.23.0",
+        "image-clipper": "^0.4.4",
+        "imagetracerjs": "^1.2.0",
+        "jimp": "^0.16.1",
+        "node-tesseract": "^0.2.7",
+        "node-tesseract-ocr": "^2.0.0",
+        "node-uuid": "^1.4.8",
+        "png.js": "^0.2.1",
+        "posterize": "^1.0.2",
+        "potrace": "^2.1.1",
+        "promise": "^8.0.1",
+        "rimraf": "^2.6.1",
+        "webfont": "^7.1.4",
+        "webfonts-generator": "^0.4.0"
+    }
+}
