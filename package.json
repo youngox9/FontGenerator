@@ -21,7 +21,7 @@
         "potrace": "^2.1.1",
         "promise": "^8.0.1",
         "rimraf": "^2.6.1",
-        "webfont": "^7.1.4",
+        "webfont": "^9.0.0",
         "webfonts-generator": "^0.4.0"
     }
 }
